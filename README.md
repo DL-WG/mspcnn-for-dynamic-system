@@ -26,6 +26,6 @@ The trained models and weights associated with this repository can be downloaded
 
 ## Contact
 
-Hao Zhou - haozhou0713@outlook.com / hao.zhou22@imperial.ac.uk
+Hao Zhou - haozhou0713@outlook.com / h40.zhou@hdr.qut.edu.au
 
 Sibo Cheng - sibo.cheng@imperial.ac.uk
